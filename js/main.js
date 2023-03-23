@@ -19,6 +19,7 @@
     },
 
     mounted(){
+        
         this.getEmails();
     }
 
